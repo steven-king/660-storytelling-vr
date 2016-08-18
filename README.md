@@ -7,16 +7,14 @@ This UNC School of Media and Journalism course taugh by Steven King will introdu
 
 ##Professor:
 ###Steven King
-Assistant Professor of Interactive Media
-Director of Reese News Lab
-Visual Communication Sequence Curriculum Coordinator 
+...Assistant Professor of Interactive Media..
+...Director of Reese News Lab..
+...Visual Communication Sequence Curriculum Coordinator..
 
-School of Media and Journalism
-University of North Carolina at Chapel Hill.
 
-Twitter: 	steven_king
-GitHub: 	steven-king
-Web: 	steventking.com
-Office:	919.843.9939
+...Twitter: 	steven_king..
+...GitHub: 	steven-king..
+...Web: 	steventking.com..
+...Office:	919.843.9939..
 
 
